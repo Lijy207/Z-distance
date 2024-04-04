@@ -1,5 +1,7 @@
 This is the code for the paper 'Reachable Distance Function for KNN Classification'.
+
 If you use this code, please cite the following paper, thank you.
+
 @ARTICLE{9802923,
   author={Zhang, Shichao and Li, Jiaye and Li, Yangding},
   journal={IEEE Transactions on Knowledge and Data Engineering}, 
